@@ -3,7 +3,7 @@
 `dsh-roost`（DSH 的 QQ 机器人宿主插件）用的人格库。一个人格一个 Markdown 文件，
 丢进目录就能用，不需要改代码、不需要发版。
 
-- 上游：[tdcq9594/dsh-roost](https://github.com/tdcq9594/dsh-roost) 的 `personas/` 目录
+- 上游：[roost-qq/dsh-roost](https://github.com/roost-qq/dsh-roost) 的 `personas/` 目录
 - 本仓库是它的**独立分发点**：内容一致，改了上游再同步过来
 
 ## 包含哪些
@@ -21,7 +21,7 @@
 
 另有 **193 份**从 QQ-Agent 人设库迁移来的角色卡，文件名是原始 id
 （`persona-<12 位 hex>`），和原数据一一对应。内容按
-[QQ-Agent 人格迁移规范](https://github.com/tdcq9594/dsh-roost/blob/main/docs/QQ-Agent人格迁移.md)
+[QQ-Agent 人格迁移规范](https://github.com/roost-qq/dsh-roost/blob/main/docs/QQ-Agent人格迁移.md)
 转换过：正文、`## 说话示例`、`## 世界书` 三段结构，`tools` 一律留空
 （工具契约由 dsh-roost 运行时注入，人格文件里不写工具名）。
 

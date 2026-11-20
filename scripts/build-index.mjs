@@ -120,7 +120,7 @@ async function build() {
     packFiles,
     index: {
       schema: 3,
-      repo: 'tdcq9594/dsh-roost-personas',
+      repo: 'roost-qq/dsh-roost-personas',
       branch: 'main',
       minVersion: MIN_VERSION,
       packs,
