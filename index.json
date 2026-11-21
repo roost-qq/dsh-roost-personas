@@ -56,7 +56,7 @@
       "n": 8,
       "file": "packs/p8.jsonl",
       "count": 26,
-      "bytes": 442424
+      "bytes": 442422
     },
     {
       "n": 9,
@@ -98,7 +98,7 @@
       "n": 15,
       "file": "packs/p15.jsonl",
       "count": 20,
-      "bytes": 257723
+      "bytes": 257721
     }
   ],
   "personas": [
@@ -614,7 +614,7 @@
       ],
       "file": "persona-1b2c3d6693.md",
       "chars": 11231,
-      "sha256": "9472da41e0b4eca745c4492762cfb8e644395d4f563610728ab093065f1e7e6d",
+      "sha256": "ba23a31129f5e03ecc3b6f97c9f43d1352656355befbe0e960a56f5668d9a606",
       "pack": 13
     },
     {
@@ -950,7 +950,7 @@
       ],
       "file": "persona-2bd46adb8a.md",
       "chars": 2067,
-      "sha256": "f5fa408c678aa0346b70672585002e68d863acf7b9c074274d89e89715d1f2c7",
+      "sha256": "e4fffd7d0d31877c42840677302bbf82568aa1adb71eb2e7a28e6a2ec864bc3b",
       "pack": 5
     },
     {
@@ -1328,7 +1328,7 @@
       ],
       "file": "persona-403d31b810.md",
       "chars": 6908,
-      "sha256": "3660cacdaccfd3baa1d8504c8ca45aeeaea2c3e546737a2c019dcb892e4032e6",
+      "sha256": "975e3062b33af1ed7f0a24967ae8dc28b29abd543a9b9cd3d1c7b52ac331676c",
       "pack": 15
     },
     {
@@ -1440,7 +1440,7 @@
       ],
       "file": "persona-46f0eb5537.md",
       "chars": 2473,
-      "sha256": "5fc348bab6afa3ea60d5988563e5b11aad3bb99e608fd46485ee2fa347ee89d5",
+      "sha256": "60df5be8d7850c6746b26fb071ee6203192b34d0c129bd5143cd852e02b6986d",
       "pack": 4
     },
     {
@@ -1622,7 +1622,7 @@
       ],
       "file": "persona-4f3dc86c8d.md",
       "chars": 1155,
-      "sha256": "5e9181a0b5d1b0d4586fb3e8f9574f0cf25a1e3ac364637733b9321a6995f25c",
+      "sha256": "33ab1d738a0dd50955774cb9eb48f347bf7200226c9c886e39cc86d1927cdd70",
       "pack": 5
     },
     {
@@ -2168,7 +2168,7 @@
       ],
       "file": "persona-6909d05c28.md",
       "chars": 2335,
-      "sha256": "37f0bf2eea011810dde311cb42f9148b32a920a01b45ceed52f297d87a86792b",
+      "sha256": "c235badba007c2425e275c3503dad979ab2b84a7e0d4613e6f1cc6be80b283e2",
       "pack": 12
     },
     {
@@ -2350,7 +2350,7 @@
       ],
       "file": "persona-74e668987a.md",
       "chars": 3154,
-      "sha256": "31d3e2ec1c4a1636b0a2a642c69d4b073f15d9f4b5738cbd1b59e20d01e329f6",
+      "sha256": "1922e8a73fc9d7dd39e9054d738f718844e5f91e5e74d7bbbe1b5995f73229d4",
       "pack": 5
     },
     {
@@ -3470,7 +3470,7 @@
       ],
       "file": "persona-b70ef85864.md",
       "chars": 3464,
-      "sha256": "5e81e41691153b8a97e4569b6e1f380d8a5838fc500c4fab05871970a13bc5e6",
+      "sha256": "c472b102e960ae81767c220100b8de0567378092fe53c627591bcdee8170d5af",
       "pack": 1
     },
     {
@@ -3736,7 +3736,7 @@
       ],
       "file": "persona-c460330493.md",
       "chars": 1933,
-      "sha256": "523cbb2bd979cca317647fa918cf34dbc17763a2190f107b74c210465957535d",
+      "sha256": "9f3ce2a2b1a4c383214e0c9581616ea84be027addb3273db44f68096f16f2996",
       "pack": 5
     },
     {
@@ -4576,7 +4576,7 @@
       ],
       "file": "persona-f26c443bad.md",
       "chars": 2101,
-      "sha256": "3fcda146f6c2a7fb0510138e2eb59c5b4f469ea2533d70499b224a9cb95fb978",
+      "sha256": "733ac1d18ed5ae17d26d2a0a95c74607abdfd6cea9de099f69a87e09000a5a88",
       "pack": 14
     },
     {
@@ -4618,7 +4618,7 @@
       ],
       "file": "persona-f3adf90e35.md",
       "chars": 3712,
-      "sha256": "5e6594bc4070c7d7c47ece56a142be323cd3b637b3eb4f04e770e607b187e50c",
+      "sha256": "a231ea901f2ed903ad89a61abf13cb1d02a5a6775a62102950fe27123ef5c99f",
       "pack": 13
     },
     {
@@ -4673,8 +4673,8 @@
         "领袖"
       ],
       "file": "persona-f510c9e36e.md",
-      "chars": 3616,
-      "sha256": "60c0eda00d48599d34e4be8ed2336f6f73bf481754d52c7fb16076b90d583375",
+      "chars": 3615,
+      "sha256": "c6cc3919c1c2ec754627476e7872869a101d14c7aa9127d8b6eab02d43cdf127",
       "pack": 15
     },
     {
@@ -4855,8 +4855,8 @@
         "真诚"
       ],
       "file": "persona-ff17a4ac69.md",
-      "chars": 19894,
-      "sha256": "c2ee79293b5fa70e644324cfd6ad6c1cb888b8cbff4274c8f847bf904b78130a",
+      "chars": 19893,
+      "sha256": "82b187d7f4f765b7f38c916b12d0726283b2c8927f4bb2353957f57a2ec7991b",
       "pack": 8
     },
     {
