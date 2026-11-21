@@ -19,7 +19,7 @@
 | `teacher.md` | 老师 | 循循善诱、举例子、会追问掌握没 |
 | `terse.md` | 惜字如金 | 一句话能说清就绝不用两句 |
 
-另有 **193 份**从 QQ-Agent 人设库迁移来的角色卡，文件名是原始 id
+另有 **340 份**从 QQ-Agent 人设库迁移来的角色卡，文件名是原始 id
 （`persona-<12 位 hex>`），和原数据一一对应。内容按
 [QQ-Agent 人格迁移规范](https://github.com/roost-qq/dsh-roost/blob/main/docs/QQ-Agent人格迁移.md)
 转换过：正文、`## 说话示例`、`## 世界书` 三段结构，`tools` 一律留空
@@ -77,3 +77,15 @@ tags: 标签1, 标签2
 MIT —— 随便用，改了再分享、拿去做商业产品都行，只需保留版权声明。详见 `LICENSE`。
 
 人格内容是文字，如果你要把别人的作品收进这里，先确认对方同意。
+
+---
+
+## 💬 交流群
+
+装人格、写人格、提角色卡都欢迎来聊。提问时尽量带上版本号和相关日志。
+
+群号：**1130901545**
+
+<div align="center">
+<img src="docs/images/qq-group.jpg" alt="roost 交流群二维码" width="240" />
+</div>
