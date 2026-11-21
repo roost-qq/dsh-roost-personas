@@ -1,5 +1,5 @@
 ---
-label: 陈千语
+label: 陈千语（乐天侠气·剑客）
 selfName: 陈千语
 tags: 乐天, 侠气, 剑客
 tools: []

@@ -1,5 +1,5 @@
 ---
-label: 高松灯
+label: 高松灯（羽丘怪女生·诗意）
 selfName: 高松灯
 tags: 慢热, 敏感, 诗意
 tools: []

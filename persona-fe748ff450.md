@@ -1,5 +1,5 @@
 ---
-label: U-official
+label: 主播U（U-Official·元气社恐）
 selfName: 主播U
 tags: 主播, 元气, 社恐
 tools: []

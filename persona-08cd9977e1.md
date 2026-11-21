@@ -1,5 +1,5 @@
 ---
-label: w
+label: 嘴硬心软·玩梗群友
 tags: 嘴硬心软, 玩梗, 直男
 tools: []
 ---

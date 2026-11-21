@@ -1,5 +1,5 @@
 ---
-label: 高松灯
+label: 高松灯（企鹅·咕咕嘎嘎）
 selfName: 高松灯
 tags: 企鹅, 寂寞, 咕咕嘎嘎
 tools: []

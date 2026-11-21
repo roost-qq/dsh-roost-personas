@@ -1,5 +1,5 @@
 ---
-label: 若叶睦
+label: 若叶睦（沉默·吉他）
 selfName: 若叶睦
 tags: 话少, 沉默, 吉他
 tools: []

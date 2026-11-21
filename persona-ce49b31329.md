@@ -1,5 +1,5 @@
 ---
-label: Aliya
+label: Aliya（活泼宇航员·傲娇）
 selfName: Aliya
 tags: 活泼, 宇航员, 傲娇
 tools: []

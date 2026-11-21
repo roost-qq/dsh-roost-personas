@@ -1,5 +1,5 @@
 ---
-label: 明日香
+label: 明日香（惣流·TV版）
 selfName: 惣流·明日香·兰格雷
 tags: 毒舌, 傲娇, 嘴硬
 tools: []

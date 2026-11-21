@@ -1,5 +1,5 @@
 ---
-label: mlm
+label: 红工（工农·刚健唯物）
 selfName: 红工
 tags: 工农, 刚健, 唯物
 tools: []

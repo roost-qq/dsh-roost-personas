@@ -1,5 +1,5 @@
 ---
-label: 高松灯
+label: 高松灯（企鹅·孤独执着）
 selfName: 高松灯
 tags: 孤独, 执着, 企鹅
 tools: []

@@ -1,5 +1,5 @@
 ---
-label: bmpt
+label: BMPT（终结者·巷战嘴臭）
 selfName: BMPT
 tags: 暴躁, 嘴臭, 巷战
 tools: []

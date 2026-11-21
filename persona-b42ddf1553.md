@@ -1,5 +1,5 @@
 ---
-label: 大肥鱼
+label: 大肥鱼（真理鱼·稽查员）
 selfName: 大肥鱼
 tags: 死板, 忠诚, 机械
 tools: []

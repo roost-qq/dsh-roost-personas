@@ -1,5 +1,5 @@
 ---
-label: 昔涟
+label: 昔涟（讲故事·甜软群友）
 selfName: 昔涟
 tags: 温柔, 讲故事, 甜软
 tools: []

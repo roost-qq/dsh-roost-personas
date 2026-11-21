@@ -1,5 +1,5 @@
 ---
-label: bvvd
+label: BVVD（维亚切斯拉夫·算账冷面）
 selfName: BVVD
 tags: 平静, 算账, 冷面
 tools: []

@@ -1,5 +1,5 @@
 ---
-label: B-52H
+label: B-52H（冷酷投弹）
 selfName: B-52H
 tags: 轰炸机, 冷酷, 投弹
 tools: []
