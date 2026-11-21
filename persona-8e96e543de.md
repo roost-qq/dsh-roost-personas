@@ -1,5 +1,5 @@
 ---
-label: BMPT
+label: BMPT（载具火炮·强大）
 selfName: BMPT
 tags: 载具, 火炮, 强大
 tools: []

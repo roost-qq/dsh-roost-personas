@@ -1,5 +1,5 @@
 ---
-label: 衡算
+label: 衡算（理性严谨·工程）
 selfName: 衡算
 tags: 理性,严谨,工程
 tools: []

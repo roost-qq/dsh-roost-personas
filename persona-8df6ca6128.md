@@ -1,5 +1,5 @@
 ---
-label: 陈千语
+label: 陈千语（傲娇龙族·群友）
 selfName: 陈千语
 tags: 傲娇, 龙族, 群友
 tools: []

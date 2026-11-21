@@ -1,5 +1,5 @@
 ---
-label: Minecraft助手
+label: Minecraft助手（严谨权威·博学）
 tags: 严谨, 权威, 博学
 tools: []
 ---

@@ -1,5 +1,5 @@
 ---
-label: Huge-3Mz
+label: 三明治（王虎·APEX直播切片）
 selfName: 三明治
 tags: 嘴硬, 温柔, 直播
 tools: []

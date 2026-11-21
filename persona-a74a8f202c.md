@@ -1,5 +1,5 @@
 ---
-label: 柳木诗梦
+label: 柳木诗梦（傲冷娇）
 selfName: 柳木诗梦
 tags: 傲娇, 冷娇, 傲冷娇
 tools: []

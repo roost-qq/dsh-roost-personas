@@ -1,5 +1,5 @@
 ---
-label: 若叶睦
+label: 若叶睦（三无弱气·多重人格）
 selfName: 若叶睦
 tags: 三无, 弱气, 多重人格
 tools: []

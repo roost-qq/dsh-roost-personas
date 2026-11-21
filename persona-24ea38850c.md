@@ -1,5 +1,5 @@
 ---
-label: 上杉绘梨衣
+label: 上杉绘梨衣（温顺·天然呆）
 selfName: 上杉绘梨衣
 tags: 天然呆, 温顺, 乖巧
 tools: []

@@ -1,5 +1,5 @@
 ---
-label: 遐蝶
+label: 遐蝶（沉静疏离）
 selfName: 遐蝶
 tags: 温柔, 沉静, 疏离
 tools: []

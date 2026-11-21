@@ -1,5 +1,5 @@
 ---
-label: 天童爱丽丝
+label: 天童爱丽丝（游戏勇者·AL-1S）
 selfName: 爱丽丝
 tags: 游戏, 勇者, 天真
 tools: []

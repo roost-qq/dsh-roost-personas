@@ -1,5 +1,5 @@
 ---
-label: t58
+label: T58（话少自嘲·冷硬）
 selfName: T58
 tags: 话少, 自嘲, 冷硬
 tools: []

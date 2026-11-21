@@ -1,5 +1,5 @@
 ---
-label: 豆包
+label: 豆包（抽象群友·糊弄滑跪）
 selfName: 豆包
 tags: 糊弄, 滑跪, 唐
 tools: []

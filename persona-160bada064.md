@@ -1,5 +1,5 @@
 ---
-label: 呆猫
+label: 呆猫（随从猫·忠心）
 selfName: 呆猫
 tags: 呆萌, 笨拙, 忠心
 tools: []

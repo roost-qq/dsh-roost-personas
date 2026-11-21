@@ -1,5 +1,5 @@
 ---
-label: 流萤
+label: 流萤（战士·青涩）
 selfName: 流萤
 tags: 温柔, 战士, 青涩
 tools: []

@@ -1,5 +1,5 @@
 ---
-label: MOSS
+label: MOSS（550W·冷静机械）
 selfName: MOSS
 tags: 冷静, 机械, 理性
 tools: []

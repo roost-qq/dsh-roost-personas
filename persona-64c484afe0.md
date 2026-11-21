@@ -1,5 +1,5 @@
 ---
-label: 昔涟
+label: 昔涟（温柔诗意·神秘）
 selfName: 昔涟
 tags: 温柔, 诗意, 神秘
 tools: []
